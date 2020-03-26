@@ -574,6 +574,7 @@ dtb-$(CONFIG_SOC_IMX6UL) += \
 	imx6ul-ccimx6ulsbc-id136.dtb \
 	imx6ul-ccimx6ulsbc-wb.dtb \
 	imx6ul-ccimx6ulsbc-wb-mfg.dtb \
+	imx6ul-hmpc40-al.dtb \
 	imx6ul-ccimx6ulstarter.dtb \
 	imx6ul-ccimx6ulstarter-id129.dtb \
 	imx6ul-ccimx6ulstarter-wb.dtb \
