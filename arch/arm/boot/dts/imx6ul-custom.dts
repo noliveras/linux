@@ -24,7 +24,7 @@
 	// Add here your compatible platform. Se define la plataforma.
 	compatible = "imx6ul-hmpc40-al","digi,ccimx6ul", "fsl,imx6ul";
 	// Se adiciona la maquina.
-	digi,machine,name="hmpc40-al";
+	digi,machine,name="custom";
 };
 
 &adc1 {
